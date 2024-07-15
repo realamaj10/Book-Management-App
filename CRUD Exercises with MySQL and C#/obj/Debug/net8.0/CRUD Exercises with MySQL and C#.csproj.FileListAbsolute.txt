@@ -1,0 +1,37 @@
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\CRUD Exercises with MySQL and C#.exe
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\CRUD Exercises with MySQL and C#.deps.json
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\CRUD Exercises with MySQL and C#.runtimeconfig.json
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\CRUD Exercises with MySQL and C#.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\CRUD Exercises with MySQL and C#.pdb
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\obj\Debug\net8.0\CRUD Exercises with MySQL and C#.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\obj\Debug\net8.0\CRUD Exercises with MySQL and C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\obj\Debug\net8.0\CRUD Exercises with MySQL and C#.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\obj\Debug\net8.0\CRUD Exercises with MySQL and C#.AssemblyInfo.cs
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\obj\Debug\net8.0\CRUD Exercises with MySQL and C#.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\obj\Debug\net8.0\CRUD Exe.5C5B4293.Up2Date
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\obj\Debug\net8.0\CRUD Exercises with MySQL and C#.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\obj\Debug\net8.0\refint\CRUD Exercises with MySQL and C#.dll
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\obj\Debug\net8.0\CRUD Exercises with MySQL and C#.pdb
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\obj\Debug\net8.0\CRUD Exercises with MySQL and C#.genruntimeconfig.cache
+C:\Users\User\source\repos\CRUD Exercises with MySQL and C#\CRUD Exercises with MySQL and C#\obj\Debug\net8.0\ref\CRUD Exercises with MySQL and C#.dll
