@@ -1,6 +1,3 @@
-﻿
-// private string connectionString = "server=localhost;database=Library;uid=root;pwd=isaj10;";
-
 using System;
 using MySql.Data.MySqlClient;
 
@@ -9,7 +6,7 @@ namespace BookManagementApp
     public class BookService
     {
         // Connection string for the MySQL database.
-        private string connectionString = "server=localhost;database=Library;uid=root;pwd=isaj10;";
+         private readonly string connectionString = "Server=localhost;Database=BookDB;User ID=root;Password=root;";
 
         // Method to insert a new book into the database.
         public void InsertNewBook()
